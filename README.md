@@ -1,9 +1,8 @@
+## Olá! eu sou o Diego Dias 👊🏿
 
-### Olá! eu sou o Diego Dias 👊🏿
-
-[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://sujeitoprogramador.com)
- [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedinsujeitoprogramador.com)
- [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador.com)
+[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+ [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-dias-92118a222/)
+ 
 
  ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego&show_icons=true&theme=dark)
 
